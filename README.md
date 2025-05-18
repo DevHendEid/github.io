@@ -1,9 +1,4 @@
----
-layout: home
----
-
-# مرحباً، أنا مطور تطبيقات الهاتف المحمول
-
-أنا مطور متخصص في تطوير تطبيقات الهاتف المحمول باستخدام Flutter وDart. أقوم بإنشاء تطبيقات عالية الجودة لمنصات Android وiOS مع التركيز على تجربة المستخدم والأداء.
-
-لدي خبرة في تطوير تطبيقات التجارة الإلكترونية، والخدمات المصرفية، ووسائل التواصل الاجتماعي، وغيرها من التطبيقات المتنوعة. أستخدم أحدث التقنيات وأفضل الممارسات لضمان تقديم منتجات عالية الجودة.
+Mobile Developer with 6+ years of expertise in Flutter development, delivering highperformance applications with exceptional user experiences. Proficient in Dart, RESTful 
+APIs, and Firebase, with strong debugging capabilities and agile methodologies. 
+Experienced in managing application lifecycles, implementing data-driven features, and 
+maintaining effective client communication for seamless deployment.
